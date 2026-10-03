@@ -1,0 +1,15 @@
+// 1. Create a Dart program that stores your name, age, and city in variables and prints them.
+
+void main()
+{
+	String name = "Harsh";
+	int age = 28;
+  	String city = "New York";
+
+
+	print("Name: $name");
+	print("Age: $age");
+	print("City: $ city");
+
+	print("Hello, my name is $name. I am $age years old and I am from $city");
+}
