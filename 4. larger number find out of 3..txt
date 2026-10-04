@@ -1,5 +1,4 @@
 // 4. larger number find out of 3. 
-
 void main()
 {
 	double n1 = 10;
@@ -17,6 +16,5 @@ void main()
 	else
 	{
 		print('$n3 is bigger than $n2, $n1');
-
 	}
 }
