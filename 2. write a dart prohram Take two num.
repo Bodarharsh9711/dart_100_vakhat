@@ -1,5 +1,4 @@
 // 2. write a dart prohram Take two numbers and print their sum, subtraction, multiplication, and division. 
-
 void main()
 {
 	double num1 = 10;
@@ -15,5 +14,4 @@ void main()
 	print('sub: $sub');
 	print('mul: $mul');
 	print('div: $div');
-
 }
