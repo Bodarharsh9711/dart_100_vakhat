@@ -3,7 +3,6 @@
 void main()
 {
 	int number = 20;
-	
 	if(number.isEven) // or (number %2==0)
 	{
 		print('$number is even');
@@ -12,5 +11,4 @@ void main()
 	{
 		print('$number is not even');
 	}
-
 }
