@@ -1,0 +1,16 @@
+// 3. Even or Odd Take a number from a variable and check whether it is even or odd in dart.
+
+void main()
+{
+	int number = 20;
+	
+	if(number.isEven) // or (number %2==0)
+	{
+		print('$number is even');
+	}	
+	else
+	{
+		print('$number is not even');
+	}
+
+}
