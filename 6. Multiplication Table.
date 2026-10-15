@@ -1,5 +1,4 @@
 // 6. Multiplication Table.
-
 void main() {
   int number = 5; // Change this number to print a table for any value
 
