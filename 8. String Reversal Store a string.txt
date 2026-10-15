@@ -1,0 +1,9 @@
+// 8. String Reversal Store a string and print it in reverse order. in dart
+
+void main()
+{
+	String frist = "Harsh!";
+	String fian = reversed.join('');
+	
+	print(fian); 
+}
