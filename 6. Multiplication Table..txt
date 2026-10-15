@@ -1,0 +1,9 @@
+// 6. Multiplication Table.
+
+void main() {
+  int number = 5; // Change this number to print a table for any value
+
+  for (int i = 1; i <= 10; i++) {
+    print('$number * $i = ${number * i}');
+  }
+}
