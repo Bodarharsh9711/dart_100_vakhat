@@ -10,7 +10,6 @@ bool isPrime(int number){
 	}
 	return true;
 }
-
 void main()
 {
 	print(isPrime(5));
