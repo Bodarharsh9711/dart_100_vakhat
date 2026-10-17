@@ -1,0 +1,26 @@
+// 11. count vowel 
+
+int cou_vow(String text)
+{
+	int count = 0;
+	for(int i=0;i<text.length;i++)
+	{
+		String letter = text[i].toLowerCase();
+		
+		if(letter=='a || ')
+		{
+			count++;
+		}
+	}
+	return count;
+}
+
+void main(){
+	String Ms = "aaaasssss ddddddd we wewf ssfjs jebuibc";
+	int redult = cou_vow(Ms);
+	print(result);
+}
+
+
+
+// function -> loop(text ni length) -> lower ma ferva -> condition -> return ->main method.🤷‍♀️
